@@ -1,0 +1,3 @@
+[submodule "workbench/angel/core"]
+	path = workbench/angel/core
+	url = git@github.com:CharlesAV/angel.git
