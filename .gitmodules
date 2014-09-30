@@ -1,3 +1,9 @@
 [submodule "workbench/angel/core"]
 	path = workbench/angel/core
 	url = git@github.com:CharlesAV/angel.git
+[submodule "workbench/angel/carousels"]
+	path = workbench/angel/carousels
+	url = git@github.com:jqr108/angel-carousels.git
+[submodule "workbench/angel/products"]
+	path = workbench/angel/products
+	url = git@github.com:CharlesAV/angel-products.git

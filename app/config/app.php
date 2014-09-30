@@ -120,6 +120,8 @@ return array(
 		'Illuminate\View\ViewServiceProvider',
 		'Illuminate\Workbench\WorkbenchServiceProvider',
 		'Angel\Core\CoreServiceProvider',
+		//'Angel\Products\ProductsServiceProvider',
+		//'Angel\Carousels\CarouselsServiceProvider',
 
 	),
 
