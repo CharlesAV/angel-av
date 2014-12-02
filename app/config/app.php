@@ -120,8 +120,15 @@ return array(
 		'Illuminate\View\ViewServiceProvider',
 		'Illuminate\Workbench\WorkbenchServiceProvider',
 		'Angel\Core\CoreServiceProvider',
-		//'Angel\Products\ProductsServiceProvider',
-		//'Angel\Carousels\CarouselsServiceProvider',
+		'Angel\Products\ProductsServiceProvider',
+		'Angel\Carousels\CarouselsServiceProvider',
+		'Angel\Faqs\FaqsServiceProvider',                 
+		'Angel\Testimonials\TestimonialsServiceProvider',
+		'Angel\News\NewsServiceProvider',
+		'Angel\Blog\BlogServiceProvider',
+		'Angel\Galleries\GalleriesServiceProvider',
+		'Angel\Shipping\ShippingServiceProvider', // Not working, might be because of the error we got when composer updating them: [RuntimeException] Could not scan for classes inside "src/migrations" which does not appear to be a file nor a folder
+		'Angel\Packer\PackerServiceProvider',
 
 	),
 

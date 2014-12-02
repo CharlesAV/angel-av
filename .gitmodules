@@ -7,3 +7,27 @@
 [submodule "workbench/angel/products"]
 	path = workbench/angel/products
 	url = git@github.com:CharlesAV/angel-products.git
+[submodule "workbench/angel/faqs"]
+	path = workbench/angel/faqs
+	url = git@github.com:CharlesAV/angel-faqs.git
+[submodule "workbench/angel/testimonials"]
+	path = workbench/angel/testimonials
+	url = https://github.com/CharlesAV/angel-testimonials
+[submodule "angel-news"]
+	path = angel-news
+	url = git@github.com:CharlesAV/angel-news.git
+[submodule "workbench/angel/blog"]
+	path = workbench/angel/blog
+	url = git@github.com:CharlesAV/angel-blog.git
+[submodule "workbench/angel/galleries"]
+	path = workbench/angel/galleries
+	url = git@github.com:CharlesAV/angel-galleries.git
+[submodule "workbench/angel/shipping"]
+	path = workbench/angel/shipping
+	url = git@github.com:CharlesAV/angel-shipping.git
+[submodule "workbench/angel/packer"]
+	path = workbench/angel/packer
+	url = git@github.com:CharlesAV/angel-packer.git
+[submodule "workbench/angel/sitemap"]
+	path = workbench/angel/sitemap
+	url = git@github.com:CharlesAV/angel-sitemap.git
